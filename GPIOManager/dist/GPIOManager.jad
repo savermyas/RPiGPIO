@@ -1,0 +1,15 @@
+MIDlet-1: GPIOSocketServer,,GPIOServer.GPIOSocketServer
+MIDlet-Certificate-1-1: MIICjjCCAfegAwIBAgIERoSZCzANBgkqhkiG9w0BAQsFADB6MQswCQYDVQQGEwJVUzEVMBMGA1UECBMMbWFudWZhY3R1cmVyMRUwEwYDVQQHEwxtYW51ZmFjdHVyZXIxFTATBgNVBAoTDG1hbnVmYWN0dXJlcjEVMBMGA1UECxMMbWFudWZhY3R1cmVyMQ8wDQYDVQQDEwZiYXJzdWswHhcNMTQwMTIwMTYzODE2WhcNMjQwMTE4MTYzODE2WjB6MQswCQYDVQQGEwJVUzEVMBMGA1UECBMMbWFudWZhY3R1cmVyMRUwEwYDVQQHEwxtYW51ZmFjdHVyZXIxFTATBgNVBAoTDG1hbnVmYWN0dXJlcjEVMBMGA1UECxMMbWFudWZhY3R1cmVyMQ8wDQYDVQQDEwZiYXJzdWswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMW2YAdBZg9V2RLw1pJVPv2P1oJmhfSJh3qhvLmPj1Nsspe9T/ksMeHas03waKL+NjHCNcN6/pRrOEQY+IQpchHQscZBGHibUm4ahOKts3T60ENBXtTeMgszIPyS8+tCCn7vwj2dISiEkKBDIJniaa0pDNm0NKex/en0CgLPBZXxAgMBAAGjITAfMB0GA1UdDgQWBBSoznKnXT5k8p4vk/YdhCAyk7tLsjANBgkqhkiG9w0BAQsFAAOBgQAInOFzF/c9l8LrSVnUzMQLefAkIm/LBsCXBZMfUzxP4Ql85vQkMRL+R1fA+gg8v7zpdNMXYv4CaenWEU5A5aclzm+BhuwmqX/nzvBJ689S+tAC8E97q4aIG/Z4RiiQ97m5LPDYcUGr20boXzueI7IF8ZYKLmzOYlTL+pfMg+9Rkw==
+MIDlet-Jar-RSA-SHA1: ZY2xYLtejItvPxKzHi08aLIrkXJTn0md3z3nbWzlYV3/6Idb2GCB+QnW8ZfFi5tjr8QmzbXYWUBmJ2hxgLG9tkwb+xMk+qlhk8GqURQD1BhdgCkQZADLl9aZMdrduzotgYRWWB5ZRteZMKTKIJ+d121JBIhAy3KeltRnqD07Y24=
+MIDlet-Jar-Size: 6184
+MIDlet-Jar-URL: GPIOManager.jar
+MIDlet-Name: JavaMEApplication1
+MIDlet-Permission-1: jdk.dio.DeviceMgmtPermission "*:*" "open,register,unregister"
+MIDlet-Permission-2: jdk.dio.gpio.GPIOPinPermission "*:*" "open,setdirection,powermanage"
+MIDlet-Permission-3: javax.microedition.io.SocketProtocolPermission "socket://*:*"
+MIDlet-Permission-4: javax.microedition.io.SocketProtocolPermission "socket://:*"
+MIDlet-Permission-5: java.util.PropertyPermission "line.separator" "read"
+MIDlet-Vendor: vagrant
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
